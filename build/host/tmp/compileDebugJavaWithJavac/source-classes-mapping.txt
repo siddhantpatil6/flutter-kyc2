@@ -1,0 +1,6 @@
+com/angelbroking/kycsdk/host/MainActivity.java
+ com.angelbroking.kycsdk.host.MainActivity
+com/angelbroking/kycsdk/MainActivity.java
+ com.angelbroking.kycsdk.MainActivity
+com/angelbroking/kycsdk/BuildConfig.java
+ com.angelbroking.kycsdk.BuildConfig

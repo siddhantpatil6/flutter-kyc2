@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="doc_chooser_button_width_max">375dp</dimen>
+    <dimen name="face_box_message_tv_padding_x" ns1:override="true">41dp</dimen>
+    <dimen name="face_box_message_tv_padding_y" ns1:override="true">6dp</dimen>
+    <dimen name="face_box_message_tv_text_size" ns1:override="true">16sp</dimen>
+    <dimen name="font_content_size">32sp</dimen>
+    <dimen name="font_error_content_size">26.6sp</dimen>
+    <dimen name="font_header_size">30.7sp</dimen>
+    <dimen name="font_small_size">20sp</dimen>
+    <dimen name="margin_doc_bottom">20dp</dimen>
+    <dimen name="margin_doc_branding_top">20dp</dimen>
+    <dimen name="margin_doc_button_nav">100dp</dimen>
+    <dimen name="margin_doc_button_no_nav">80dp</dimen>
+    <dimen name="margin_doc_desc_top">80dp</dimen>
+    <dimen name="margin_doc_status_negative">-10dp</dimen>
+    <dimen name="margin_doc_status_top">40dp</dimen>
+    <dimen name="margin_doc_title_top">6dp</dimen>
+    <dimen name="margin_doc_top_bar_height_nav">60dp</dimen>
+    <dimen name="margin_doc_top_bar_height_no_nav">80dp</dimen>
+    <dimen name="margin_face_circle_top">140dp</dimen>
+    <dimen name="margin_face_status_bottom">30dp</dimen>
+    <dimen name="margin_face_status_end">30dp</dimen>
+    <dimen name="margin_face_status_start">30dp</dimen>
+    <dimen name="resource_button_size">80dp</dimen>
+    <dimen name="resource_camera_size">120dp</dimen>
+    <dimen name="resource_icon_size">60dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="status_camera_text_margin_left" ns1:override="true">20dp</dimen>
+    <style name="ButtonRoundedRectangle">
+        <item name="android:textSize">@dimen/font_error_content_size</item>
+        <item name="android:textColor">@color/hv_white</item>
+        <item name="android:background">@drawable/drawable_rounded_button_solid</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+    </style>
+    <style name="ButtonRoundedRectangleBorder">
+        <item name="android:textSize">@dimen/font_error_content_size</item>
+        <item name="android:textColor">@color/review_button_color</item>
+        <item name="android:background">@drawable/drawable_rounded_button_border</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+    </style>
+    <style name="ErrorButtonRoundedRectangleBorder">
+        <item name="android:textSize">@dimen/font_error_content_size</item>
+        <item name="android:textColor">@color/review_button_color</item>
+        <item name="android:background">@drawable/drawable_rounded_button_border</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+    </style>
+    <style name="ErrorTextViewContent">
+        <item name="android:textColor">@color/error_red</item>
+        <item name="android:textSize">@dimen/font_content_size</item>
+        <item name="android:fontFamily">@font/hv_muli</item>
+
+    </style>
+    <style name="SeekBarColor" parent="Widget.AppCompat.SeekBar.Discrete">
+        <item name="colorAccent">@color/camera_button_color</item>
+    </style>
+    <style name="TextViewContent">
+        <item name="android:textColor">@color/content_text_color</item>
+        <item name="android:textSize">@dimen/font_content_size</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+
+    </style>
+    <style name="TextViewContentMedium">
+        <item name="android:textColor">@color/content_text_color</item>
+        <item name="android:textSize">@dimen/font_content_size</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+
+    </style>
+    <style name="TextViewHeader">
+        <item name="android:textColor">@color/title_text_color</item>
+        <item name="android:textSize">@dimen/font_header_size</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+
+    </style>
+    <style name="TextviewShadow">
+        <item name="android:textSize">@dimen/font_content_size</item>
+        <!--<item name="android:fontFamily">@font/roboto_medium</item>-->
+        <item name="android:fontFamily">@font/hv_muli</item>
+        <item name="android:textColor">@color/hv_white </item>
+        <item name="android:shadowColor">@color/shadow_color</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">4</item>
+
+
+    </style>
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

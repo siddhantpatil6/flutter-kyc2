@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/siddhant/Documents/siddhant/flutter-kyc2/build/host/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                },
+                {
+                    "source": "/Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f26f0c804413988ec20b393f3c120a8/appcompat-1.3.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "334"
+                    }
+                },
+                {
+                    "source": "/Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://kyc2-services-dev-1098000510.ap-south-1.elb.amazonaws.com",
+  "digilockerUrl": "https://subkuauat.angelbroking.com/Digilocker/Kyc",
+  "esignUrl": "https://skycesignuat.angelbroking.com/esignv2/processb2cesign?type=nsdl",
+  "analyticUrl" : "https://abma-analytics-uat-cug.angelbee.in/abma_uat_cug_api",
+  "cdnUrl" : "https://d2u8j8b25aupc8.cloudfront.net/assets",
+  "baseUPI" : "https://auxiliarycloudapi.angelbroking.com"
+}

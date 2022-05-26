@@ -1,0 +1,898 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-28:12
+MERGED from [:contact] /Users/siddhant/Documents/flutter/.pub-cache/git/flutter-contacts-plugin-b5e828e500dca871884a3c3d8d8ac723f0be217a/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:image_cropper] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d23001c7496f29aa0dc6d13878afa7da/jetified-ucrop-2.2.8/AndroidManifest.xml:2:1-11:12
+MERGED from [:hypersnapsdk_flutter] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/hypersnapsdk_flutter-1.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bd243f3cb860fc15e6f44795475ba367/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2775c9f56eacff41d71929e15d534429/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:2:1-25:12
+MERGED from [co.hyperverge:face-detection-preview-frame:3.0.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60d70403986e58deb0bea35141d4d1d/jetified-face-detection-preview-frame-3.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f26f0c804413988ec20b393f3c120a8/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.rudderstack.android.sdk:core-mpx:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ec19ee14279b80942f8b901c721cfc4f/jetified-core-mpx-1.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:2:1-20:12
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dcd85dbd1e26509ca871f1b77619ae4f/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:2:1-32:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/cb756701c3bf8d684598fea862c2b945/jetified-relinker-1.4.4/AndroidManifest.xml:2:1-7:12
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2+1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.8/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8e8cc7fe7cee6042002faaf5f185f13/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/706a3fdc98147ddbdf5b621f4045e2c9/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0ba142fec2fc469fbf3154eed57b94b7/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4075ba15585b52d055903407c304bd0a/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a96124e2b557cffd59bc54567f175a1/jetified-play-services-location-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d6fed984c784affe5a74d42d651956a3/jetified-play-services-vision-20.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/806d705610273e2468a205a2125a5ac5/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7e7cb70a63a84e9221d77f848a3c25d3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/48a94833d9b20cbe8ca164100cfdd539/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/169c0a314b1b06e5040d247318d191f4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4a6339184b300af21598bf4b9cca0bab/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/719b54d8653422eee1e57a4bfaabf2cf/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3d551c198a3ea8b9f6b09abfb7392ab2/jetified-play-services-ads-15.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88506224d18f1123c91fc965ad031474/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/9b4cb03c6b343e80970ca7265648e7a7/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b517e9716a191e65c5f777a9a0e6b2c6/jetified-play-services-places-placereport-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c9c454cc0e3e8e618e8a0ae6cf642f3f/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b4d1f79b322bd6113d369ff6c4aa9e61/jetified-play-services-gass-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/614f09686d10f2fcdd1d841ba74b0819/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5ec5426536837aa8c1ba39adad4041bc/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/851e7ac9d4b717977821b8dd9cb31568/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/177f1509ad88234e39c78eddfa477ec7/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb97313610e873db5e7e7631e1bff6e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a6519d640ed3d82c9c53d4f82197eef3/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/60866126f767a3f2a1f7e64319e35ec9/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/63c30353c4aa741645a9871473369325/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4bc8f9d9a1867db762521a45721e811c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/587a667424f4862509eab5311983ccb2/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/75cb4667c6146cd4b19f5cbfa7a89b13/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/816597e12555baf9a80afe35bb20fa26/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [co.hyperverge:hypervideo:1.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7c57fbe6fc786edc925b7c9394ebfe50/jetified-hypervideo-1.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88a661246b74f3119cd02db4139ebd25/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e7b54d989f53677f53a85646b2710c49/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/6026aeaafcd641ecd50e792af4cbe62d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e50044275d896127175ad94459c46d42/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3e03670517e4723386870facd1b802b2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4f9d45df2a690caf5f483515e6f81ffc/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c3dcb6686b46806d652b8c5415cad74c/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d34a1554948162361132a8c1e5f670fe/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5c922f8dca3fb9de7ea29502d69a4839/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [co.hyperverge:hvcamera-sdk:3.0.7] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/19c93417021c2bc3096303837cafc054/jetified-hvcamera-sdk-3.0.7/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dab697be10d353d1c2886a9d03296cda/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a39417ec711739f9c867ca97fa7b4e8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a20b24535659afa0c636ff025a72e691/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4257fa8e8668f4792e4c55cd375243e3/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/83561953d23dac9a57ee67187538a197/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d4672d2d7c224728bbd90ef8288a0402/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e5339ab478c915365c37b90793135de9/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f38513fdbac90ccb6a7ac1ee7a1e694c/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/24fa2bb4d709e11ab0b8255e6a025907/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e55f9cc31d81fbe3d870ab43ddb7af1a/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60adec4771b073721a815f25ef20c31/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/040d37a46ecdb787486e6d516bbcaa0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1844ecf23258c1e18ccda5a0ecaac2b8/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0644e9e01ce5a207f9fb6a4f691de98e/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab9024d5563915475124ae1710c2ebd9/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb2ef3ab9771c27d2527c4217191eb7c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7f029b96e4d9355fd5022d80ac0e6c24/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a59365597161102bbb435fccded1b8f7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2521c20b1e833ee42090f80e83dc1851/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [co.hyperverge:hypersnap-pdf:3.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/13a5666efe2aae25d836496aadcd9389/jetified-hypersnap-pdf-3.0.0/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bb97132e457aaed155b0c4e71e097723/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e61f9e7c58080196e39579805ddff07b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8d31f045d9eadeea2806aec89b8d3e7/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a4095f9fa7072327ceb8a9f5e831188d/jetified-play-services-ads-base-15.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:9:5-15:15
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:10:9-14:18
+action#android.intent.action.VIEW
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:11:21-62
+category#android.intent.category.BROWSABLE
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:12:13-74
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:12:23-71
+data
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:13:13-44
+	android:scheme
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:13:19-41
+uses-permission#android.permission.INTERNET
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:16:5-66
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:14:5-67
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:14:5-67
+MERGED from [com.rudderstack.android.sdk:core-mpx:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ec19ee14279b80942f8b901c721cfc4f/jetified-core-mpx-1.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.rudderstack.android.sdk:core-mpx:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ec19ee14279b80942f8b901c721cfc4f/jetified-core-mpx-1.1.0/AndroidManifest.xml:11:5-67
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:9:5-67
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:17:5-65
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:15:5-65
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:15:5-65
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:9:5-65
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:9:5-65
+MERGED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [co.hyperverge:hvcamera-sdk:3.0.7] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/19c93417021c2bc3096303837cafc054/jetified-hvcamera-sdk-3.0.7/AndroidManifest.xml:11:5-65
+MERGED from [co.hyperverge:hvcamera-sdk:3.0.7] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/19c93417021c2bc3096303837cafc054/jetified-hvcamera-sdk-3.0.7/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:18:5-80
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:19:5-68
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:14:5-68
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:21:5-75
+MERGED from [:contact] /Users/siddhant/Documents/flutter/.pub-cache/git/flutter-contacts-plugin-b5e828e500dca871884a3c3d8d8ac723f0be217a/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-75
+MERGED from [:contact] /Users/siddhant/Documents/flutter/.pub-cache/git/flutter-contacts-plugin-b5e828e500dca871884a3c3d8d8ac723f0be217a/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-75
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:17:5-75
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:22:5-67
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:18:5-67
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:24:5-79
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:16:5-79
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:25:5-81
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:17:5-81
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:17:5-81
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:12:5-81
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:25:22-78
+application
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:27:5-61:19
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-26:19
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-26:19
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:21:5-65:19
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:21:5-65:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bd243f3cb860fc15e6f44795475ba367/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bd243f3cb860fc15e6f44795475ba367/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2775c9f56eacff41d71929e15d534429/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2775c9f56eacff41d71929e15d534429/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:11:5-23:19
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:11:5-23:19
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:13:5-18:19
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:13:5-18:19
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dcd85dbd1e26509ca871f1b77619ae4f/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dcd85dbd1e26509ca871f1b77619ae4f/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:20:5-30:19
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:20:5-30:19
+MERGED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a96124e2b557cffd59bc54567f175a1/jetified-play-services-location-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a96124e2b557cffd59bc54567f175a1/jetified-play-services-location-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d6fed984c784affe5a74d42d651956a3/jetified-play-services-vision-20.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d6fed984c784affe5a74d42d651956a3/jetified-play-services-vision-20.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/48a94833d9b20cbe8ca164100cfdd539/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/48a94833d9b20cbe8ca164100cfdd539/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/169c0a314b1b06e5040d247318d191f4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/169c0a314b1b06e5040d247318d191f4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/719b54d8653422eee1e57a4bfaabf2cf/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/719b54d8653422eee1e57a4bfaabf2cf/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/9b4cb03c6b343e80970ca7265648e7a7/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/9b4cb03c6b343e80970ca7265648e7a7/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b517e9716a191e65c5f777a9a0e6b2c6/jetified-play-services-places-placereport-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b517e9716a191e65c5f777a9a0e6b2c6/jetified-play-services-places-placereport-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c9c454cc0e3e8e618e8a0ae6cf642f3f/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c9c454cc0e3e8e618e8a0ae6cf642f3f/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b4d1f79b322bd6113d369ff6c4aa9e61/jetified-play-services-gass-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b4d1f79b322bd6113d369ff6c4aa9e61/jetified-play-services-gass-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e5339ab478c915365c37b90793135de9/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e5339ab478c915365c37b90793135de9/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8d31f045d9eadeea2806aec89b8d3e7/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8d31f045d9eadeea2806aec89b8d3e7/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a4095f9fa7072327ceb8a9f5e831188d/jetified-play-services-ads-base-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a4095f9fa7072327ceb8a9f5e831188d/jetified-play-services-ads-base-15.0.1/AndroidManifest.xml:22:5-20
+	tools:node
+		ADDED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:18-36
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:21:18-44
+	android:label
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:28:9-29
+	android:icon
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:29:9-43
+activity#com.angelbroking.kycsdk.MainActivity
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:30:9-49:20
+	android:launchMode
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:32:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:35:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:37:13-36
+	android:configChanges
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:34:13-163
+	android:theme
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:31:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:43:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:47:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:51:9-55:38
+	android:screenOrientation
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:53:13-49
+	android:exported
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:55:13-36
+	android:theme
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:52:13-60
+meta-data#flutterEmbedding
+ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:58:9-60:33
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:33
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:33
+	android:value
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml:59:13-44
+uses-sdk
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:contact] /Users/siddhant/Documents/flutter/.pub-cache/git/flutter-contacts-plugin-b5e828e500dca871884a3c3d8d8ac723f0be217a/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:contact] /Users/siddhant/Documents/flutter/.pub-cache/git/flutter-contacts-plugin-b5e828e500dca871884a3c3d8d8ac723f0be217a/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.8] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d23001c7496f29aa0dc6d13878afa7da/jetified-ucrop-2.2.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d23001c7496f29aa0dc6d13878afa7da/jetified-ucrop-2.2.8/AndroidManifest.xml:7:5-9:41
+MERGED from [:hypersnapsdk_flutter] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/hypersnapsdk_flutter-1.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:hypersnapsdk_flutter] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/hypersnapsdk_flutter-1.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:8:5-10:41
+MERGED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bd243f3cb860fc15e6f44795475ba367/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bd243f3cb860fc15e6f44795475ba367/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2775c9f56eacff41d71929e15d534429/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2775c9f56eacff41d71929e15d534429/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:7:5-44
+MERGED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:7:5-44
+MERGED from [co.hyperverge:face-detection-preview-frame:3.0.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60d70403986e58deb0bea35141d4d1d/jetified-face-detection-preview-frame-3.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [co.hyperverge:face-detection-preview-frame:3.0.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60d70403986e58deb0bea35141d4d1d/jetified-face-detection-preview-frame-3.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f26f0c804413988ec20b393f3c120a8/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f26f0c804413988ec20b393f3c120a8/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.rudderstack.android.sdk:core-mpx:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ec19ee14279b80942f8b901c721cfc4f/jetified-core-mpx-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rudderstack.android.sdk:core-mpx:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ec19ee14279b80942f8b901c721cfc4f/jetified-core-mpx-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dcd85dbd1e26509ca871f1b77619ae4f/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:rootbeer-lib:0.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dcd85dbd1e26509ca871f1b77619ae4f/jetified-rootbeer-lib-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/cb756701c3bf8d684598fea862c2b945/jetified-relinker-1.4.4/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/cb756701c3bf8d684598fea862c2b945/jetified-relinker-1.4.4/AndroidManifest.xml:5:5-43
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2+1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2+1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.8/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.8/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8e8cc7fe7cee6042002faaf5f185f13/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8e8cc7fe7cee6042002faaf5f185f13/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/706a3fdc98147ddbdf5b621f4045e2c9/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/706a3fdc98147ddbdf5b621f4045e2c9/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0ba142fec2fc469fbf3154eed57b94b7/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0ba142fec2fc469fbf3154eed57b94b7/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4075ba15585b52d055903407c304bd0a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4075ba15585b52d055903407c304bd0a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a96124e2b557cffd59bc54567f175a1/jetified-play-services-location-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a96124e2b557cffd59bc54567f175a1/jetified-play-services-location-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d6fed984c784affe5a74d42d651956a3/jetified-play-services-vision-20.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d6fed984c784affe5a74d42d651956a3/jetified-play-services-vision-20.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/806d705610273e2468a205a2125a5ac5/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/806d705610273e2468a205a2125a5ac5/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7e7cb70a63a84e9221d77f848a3c25d3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7e7cb70a63a84e9221d77f848a3c25d3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/48a94833d9b20cbe8ca164100cfdd539/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/48a94833d9b20cbe8ca164100cfdd539/jetified-play-services-vision-common-19.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/169c0a314b1b06e5040d247318d191f4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/169c0a314b1b06e5040d247318d191f4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4a6339184b300af21598bf4b9cca0bab/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4a6339184b300af21598bf4b9cca0bab/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/719b54d8653422eee1e57a4bfaabf2cf/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/719b54d8653422eee1e57a4bfaabf2cf/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3d551c198a3ea8b9f6b09abfb7392ab2/jetified-play-services-ads-15.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3d551c198a3ea8b9f6b09abfb7392ab2/jetified-play-services-ads-15.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88506224d18f1123c91fc965ad031474/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88506224d18f1123c91fc965ad031474/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/9b4cb03c6b343e80970ca7265648e7a7/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/9b4cb03c6b343e80970ca7265648e7a7/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b517e9716a191e65c5f777a9a0e6b2c6/jetified-play-services-places-placereport-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b517e9716a191e65c5f777a9a0e6b2c6/jetified-play-services-places-placereport-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c9c454cc0e3e8e618e8a0ae6cf642f3f/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c9c454cc0e3e8e618e8a0ae6cf642f3f/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b4d1f79b322bd6113d369ff6c4aa9e61/jetified-play-services-gass-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b4d1f79b322bd6113d369ff6c4aa9e61/jetified-play-services-gass-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/614f09686d10f2fcdd1d841ba74b0819/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/614f09686d10f2fcdd1d841ba74b0819/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5ec5426536837aa8c1ba39adad4041bc/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5ec5426536837aa8c1ba39adad4041bc/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/851e7ac9d4b717977821b8dd9cb31568/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/851e7ac9d4b717977821b8dd9cb31568/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/177f1509ad88234e39c78eddfa477ec7/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/177f1509ad88234e39c78eddfa477ec7/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb97313610e873db5e7e7631e1bff6e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb97313610e873db5e7e7631e1bff6e2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a6519d640ed3d82c9c53d4f82197eef3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a6519d640ed3d82c9c53d4f82197eef3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/60866126f767a3f2a1f7e64319e35ec9/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/60866126f767a3f2a1f7e64319e35ec9/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/63c30353c4aa741645a9871473369325/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/63c30353c4aa741645a9871473369325/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4bc8f9d9a1867db762521a45721e811c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4bc8f9d9a1867db762521a45721e811c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/587a667424f4862509eab5311983ccb2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/587a667424f4862509eab5311983ccb2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/75cb4667c6146cd4b19f5cbfa7a89b13/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/75cb4667c6146cd4b19f5cbfa7a89b13/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/816597e12555baf9a80afe35bb20fa26/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/816597e12555baf9a80afe35bb20fa26/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [co.hyperverge:hypervideo:1.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7c57fbe6fc786edc925b7c9394ebfe50/jetified-hypervideo-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [co.hyperverge:hypervideo:1.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7c57fbe6fc786edc925b7c9394ebfe50/jetified-hypervideo-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88a661246b74f3119cd02db4139ebd25/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/88a661246b74f3119cd02db4139ebd25/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e7b54d989f53677f53a85646b2710c49/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e7b54d989f53677f53a85646b2710c49/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/6026aeaafcd641ecd50e792af4cbe62d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/6026aeaafcd641ecd50e792af4cbe62d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e50044275d896127175ad94459c46d42/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e50044275d896127175ad94459c46d42/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3e03670517e4723386870facd1b802b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3e03670517e4723386870facd1b802b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4f9d45df2a690caf5f483515e6f81ffc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4f9d45df2a690caf5f483515e6f81ffc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c3dcb6686b46806d652b8c5415cad74c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c3dcb6686b46806d652b8c5415cad74c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7300332552190721277d1e7707858e66/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d34a1554948162361132a8c1e5f670fe/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d34a1554948162361132a8c1e5f670fe/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5c922f8dca3fb9de7ea29502d69a4839/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/5c922f8dca3fb9de7ea29502d69a4839/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [co.hyperverge:hvcamera-sdk:3.0.7] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/19c93417021c2bc3096303837cafc054/jetified-hvcamera-sdk-3.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [co.hyperverge:hvcamera-sdk:3.0.7] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/19c93417021c2bc3096303837cafc054/jetified-hvcamera-sdk-3.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dab697be10d353d1c2886a9d03296cda/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/dab697be10d353d1c2886a9d03296cda/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a39417ec711739f9c867ca97fa7b4e8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3a39417ec711739f9c867ca97fa7b4e8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a20b24535659afa0c636ff025a72e691/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a20b24535659afa0c636ff025a72e691/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4257fa8e8668f4792e4c55cd375243e3/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4257fa8e8668f4792e4c55cd375243e3/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/83561953d23dac9a57ee67187538a197/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/83561953d23dac9a57ee67187538a197/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d4672d2d7c224728bbd90ef8288a0402/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d4672d2d7c224728bbd90ef8288a0402/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e5339ab478c915365c37b90793135de9/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e5339ab478c915365c37b90793135de9/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f38513fdbac90ccb6a7ac1ee7a1e694c/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f38513fdbac90ccb6a7ac1ee7a1e694c/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/24fa2bb4d709e11ab0b8255e6a025907/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/24fa2bb4d709e11ab0b8255e6a025907/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e55f9cc31d81fbe3d870ab43ddb7af1a/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e55f9cc31d81fbe3d870ab43ddb7af1a/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60adec4771b073721a815f25ef20c31/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b60adec4771b073721a815f25ef20c31/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/040d37a46ecdb787486e6d516bbcaa0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/040d37a46ecdb787486e6d516bbcaa0b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1844ecf23258c1e18ccda5a0ecaac2b8/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1844ecf23258c1e18ccda5a0ecaac2b8/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0644e9e01ce5a207f9fb6a4f691de98e/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/0644e9e01ce5a207f9fb6a4f691de98e/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab9024d5563915475124ae1710c2ebd9/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab9024d5563915475124ae1710c2ebd9/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb2ef3ab9771c27d2527c4217191eb7c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/eb2ef3ab9771c27d2527c4217191eb7c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7f029b96e4d9355fd5022d80ac0e6c24/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/7f029b96e4d9355fd5022d80ac0e6c24/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a59365597161102bbb435fccded1b8f7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a59365597161102bbb435fccded1b8f7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2521c20b1e833ee42090f80e83dc1851/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2521c20b1e833ee42090f80e83dc1851/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [co.hyperverge:hypersnap-pdf:3.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/13a5666efe2aae25d836496aadcd9389/jetified-hypersnap-pdf-3.0.0/AndroidManifest.xml:7:5-44
+MERGED from [co.hyperverge:hypersnap-pdf:3.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/13a5666efe2aae25d836496aadcd9389/jetified-hypersnap-pdf-3.0.0/AndroidManifest.xml:7:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bb97132e457aaed155b0c4e71e097723/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/bb97132e457aaed155b0c4e71e097723/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e61f9e7c58080196e39579805ddff07b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/e61f9e7c58080196e39579805ddff07b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8d31f045d9eadeea2806aec89b8d3e7/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f8d31f045d9eadeea2806aec89b8d3e7/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a4095f9fa7072327ceb8a9f5e831188d/jetified-play-services-ads-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a4095f9fa7072327ceb8a9f5e831188d/jetified-play-services-ads-base-15.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/3d551c198a3ea8b9f6b09abfb7392ab2/jetified-play-services-ads-15.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/app/src/main/AndroidManifest.xml
+meta-data#flutterProjectType
+ADDED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:38
+	android:value
+		ADDED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-35
+	android:name
+		ADDED from [:flutter] /Users/siddhant/Documents/siddhant/flutter-kyc2/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-46
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:12:5-79
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:10:5-79
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:10:5-79
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:13:5-79
+MERGED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:13:5-79
+MERGED from [:connectivity_plus] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:18:5-68
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:11:5-68
+MERGED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:18:22-65
+activity#co.hyperverge.hypersnapsdk.activities.HVRetakeActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:22:9-26:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:24:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:26:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:23:13-82
+activity#co.hyperverge.hypersnapsdk.activities.HVDocInstructionActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:27:9-31:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:29:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:31:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:28:13-90
+activity#co.hyperverge.hypersnapsdk.activities.HVDocsActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:32:9-36:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:35:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:34:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:36:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:33:13-80
+activity#co.hyperverge.hypersnapsdk.activities.HVFaceInstructionActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:37:9-41:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:39:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:41:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:38:13-91
+activity#co.hyperverge.hypersnapsdk.activities.HVFaceActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:42:9-46:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:45:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:44:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:46:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:43:13-80
+activity#co.hyperverge.hypersnapsdk.activities.HVDocReviewActivity
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:47:9-51:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:49:13-43
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:51:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:48:13-85
+service#co.hyperverge.hypersnapsdk.analytics.mixpanel.network.MixPanelIntentService
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:53:9-56:72
+	android:exported
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:55:13-37
+	android:permission
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:56:13-69
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:54:13-103
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:58:9-60:36
+	android:value
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:59:13-64
+provider#com.rudderstack.android.sdk.core.EventContentProvider
+ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:62:9-64:75
+	android:authorities
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:64:13-72
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk:3.6.29] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/1caaeb017041ec55f77e740c94412c5e/jetified-hypersnapsdk-3.6.29/AndroidManifest.xml:63:13-81
+activity#co.hyperverge.hvqrmodule.activities.QRScannerActivity
+ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:12:9-15:83
+	android:screenOrientation
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:14:13-49
+	android:theme
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:15:13-80
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:13:13-81
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:17:9-19:39
+	android:value
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:18:13-70
+meta-data#preloaded_fonts
+ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:20:9-22:57
+	android:resource
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from [co.hyperverge:hypersnapsdk-qrscanner:3.0.5] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/4e8d0f328fd34628c3c9adaf653815ce/jetified-hypersnapsdk-qrscanner-3.0.5/AndroidManifest.xml:21:13-43
+service#co.hyperverge.crashguard.services.CrashIntentService
+ADDED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:14:9-17:72
+	android:exported
+		ADDED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:16:13-36
+	android:permission
+		ADDED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [co.hyperverge:crashguardsdk:1.0.4] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/d584468ecafe90a29c11b7b24912130b/jetified-crashguardsdk-1.0.4/AndroidManifest.xml:15:13-80
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.LOCAL_MAC_ADDRESS
+ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:16:22-73
+activity#com.ybl.ypp.sdk.GetTokenActivity
+ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:21:9-25:45
+	android:windowSoftInputMode
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:24:13-56
+	tools:ignore
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:25:13-42
+	android:theme
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:22:13-60
+activity#com.ybl.ypp.sdk.SendOutwardSMSActivity
+ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:26:9-29:45
+	tools:ignore
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:29:13-42
+	android:theme
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:28:13-53
+	android:name
+		ADDED from [com.library:yesbank:1.0.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/b5a7e25189149f6ac959f5f25ac8b937/jetified-yesbank-1.0.3/AndroidManifest.xml:27:13-66
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-4.5.1/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [:camera] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.7/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-68
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/siddhant/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ddd56650d7fb1715596584b29eb6395e/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/ab576ed157bb95e93666a0bc39c32e3c/jetified-play-services-mlkit-face-detection-17.0.1/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f6614d72f89bbaf459bc1b3bece14ae5/jetified-vision-common-17.1.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/a85cbedca19717fa907750e4dc4ebfe2/jetified-common-18.1.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/c90ab82ce9eb6f724b13a68b38bcf184/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/2a71f50851083fcfc3d187b9475809c4/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/39ded2b59f678da8e7663b14e8cac603/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/8f11a250a2dd80601a9d4e96616560f0/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/f97e0bc68401d99140efb1134c94f250/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/184afc756872570806a457eb66358721/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [co.hyperverge:hypersnap-pdf:3.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/13a5666efe2aae25d836496aadcd9389/jetified-hypersnap-pdf-3.0.0/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [co.hyperverge:hypersnap-pdf:3.0.0] /Users/siddhant/.gradle/caches/transforms-2/files-2.1/13a5666efe2aae25d836496aadcd9389/jetified-hypersnap-pdf-3.0.0/AndroidManifest.xml:13:22-78

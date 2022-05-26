@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://services-kyc2-prod.angelbroking.com",
+  "digilockerUrl": "https://subkua.angelbroking.com/Digilocker/Kyc",
+  "esignUrl": "https://skycesign.angelbroking.com/esignv2/processb2cesign?type=nsdl",
+  "analyticUrl" : "https://angel-clickstream-analytics.angelbee.in/spark_abma_android_api",
+  "cdnUrl" : "https://d2u8j8b25aupc8.cloudfront.net/assets",
+  "baseUPI" : "https://auxiliarycloudapi.angelbroking.com"
+}
